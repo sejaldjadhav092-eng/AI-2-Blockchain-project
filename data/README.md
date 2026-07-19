@@ -1,18 +1,13 @@
 This folder contains the datasets and other project - realted files used in the AI Blockchain Project.
-# Deployment
+# Data
 
 ## Purpose
-This folder contains deployment files, API configurations, Docker files, and hosting-related files.
+This folder contains datasets and other files required for the project.
 
-## Technologies Used
-- Docker
-- GitHub
-- Hosting Platform (if applicable)
-
-## How to Run
-1. Clone the repository.
-2. Configure the required environment variables.
-3. Run the deployment commands.
+## Contents
+- Input data
+- Output data
+- Sample datasets
 
 ## Contributors
 - Sejal Jadhav
