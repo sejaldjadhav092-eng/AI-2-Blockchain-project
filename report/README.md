@@ -1,18 +1,13 @@
 This folder contains weekly reports and the final project report
-# Deployment
+# Report
 
 ## Purpose
-This folder contains deployment files, API configurations, Docker files, and hosting-related files.
+This folder contains documentation, reports, project analysis, and deployment documentation.
 
-## Technologies Used
-- Docker
-- GitHub
-- Hosting Platform (if applicable)
-
-## How to Run
-1. Clone the repository.
-2. Configure the required environment variables.
-3. Run the deployment commands.
+## Contents
+- Deployment
+- Project documentation
+- Reports
 
 ## Contributors
 - Sejal  Jadhav
